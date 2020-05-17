@@ -19,4 +19,4 @@ Apply migrtaions
 ```
 python manage.py migrate
 ```
-Added secret keys from settings to env variables
+Add secret keys from settings to env variables
